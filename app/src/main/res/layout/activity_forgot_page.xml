@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ForgotPage">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Registered Email-Id or Mobile Number"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:layout_margin="5dp"
+        android:textStyle="bold"/>
+    <EditText
+        android:id="@+id/remail"
+        android:layout_width="match_parent"
+        android:textColorHint="@color/colorPrimary"
+        android:layout_height="50dp"
+        android:inputType="textEmailAddress"
+        android:hint="EnterHere"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ok"
+        android:layout_marginTop="100dp"
+        android:layout_gravity="center"
+        android:onClick="doctorforgot"
+        android:id="@+id/forgot">
+
+    </Button>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821797653627",
+    "firebase_url": "https://onlinedoctorappointment-34713.firebaseio.com",
+    "project_id": "onlinedoctorappointment-34713",
+    "storage_bucket": "onlinedoctorappointment-34713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821797653627:android:32744fb51357353b53e6de",
+        "android_client_info": {
+          "package_name": "com.example.onlinedoctorappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821797653627-bdrpour16kmj9710evie5i4ae5rqs57g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlinedoctorappointment",
+            "certificate_hash": "a4c1697cc062a4bbbe2dc39b9f5752d093053a35"
+          }
+        },
+        {
+          "client_id": "821797653627-3p3pel3fni2e90ib2pdbmgolapmaf808.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ4FJQTaIijU-q63odkuhF-cK82N7ARgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821797653627-3p3pel3fni2e90ib2pdbmgolapmaf808.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

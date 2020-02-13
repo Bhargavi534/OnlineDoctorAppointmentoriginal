@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name"></string>
+    <string-array name="category">
+        <item>Select your category</item>
+        <item>Allergist/Immunologist</item>
+        <item>Anesthesiologist</item>
+        <item>Cardiologist</item>
+        <item>Dermatologist</item>
+        <item>Endocrinologist</item>
+        <item>Gynecologists/Obstetrician</item>
+        <item>Nephrologist</item>
+        <item>Neurologist</item>
+        <item>Ophthalmologist</item>
+        <item>Orthopedist</item>
+        <item>Otolaryngologist</item>
+        <item>Pediatrician</item>
+        <item>Psychiatrist</item>
+        <item>Rheumatologist</item>
+        <item>Surgeon</item>
+    </string-array>
+    <string-array name="experience">
+        <item>Select  Experience Here</item>
+        <item>1-5years</item>
+        <item>5-10years</item>
+        <item>10-15years</item>
+        <item>15-20years</item>
+        <item>20-30years</item>
+        <item>Above 30years</item>
+    </string-array>
+    <string-array name="Timings">
+        <item>Select Timing Here</item>
+        <item>Morning:10-01</item>
+        <item>After Noon:02-05</item>
+        <item>Evening:06-10</item>
+        <item>Full Day</item>
+    </string-array>
+    <string-array name="State">
+        <item>Select State Here</item>
+        <item>Anantapur</item>
+        <item>Chittor</item>
+        <item>East Godavari</item>
+        <item>Guntur</item>
+        <item>YSR Kadapa District</item>
+        <item>Krishna</item>
+        <item>Kurnool</item>
+        <item>Nellore</item>
+        <item>Prakasam</item>
+        <item>Srikakulam</item>
+        <item>Visakhapatnam</item>
+        <item>Vizianagaram</item>
+        <item>West Godavari</item>
+    </string-array>
+
+
+</resources>
